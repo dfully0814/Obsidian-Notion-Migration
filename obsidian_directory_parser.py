@@ -17,8 +17,8 @@ def find_dir_name(file_path):
     file_name, file_extension = os.path.splitext(tail)
     return file_name
 
-def find_files(parentDirectory, directories):
-    totalFiles = 0
+def find_files(parent_directory, directories):
+    total_files = 0
     if __name__ == "__main__":
         if len(sys.argv) != 2:
             print("Error: missing parent directory path argument.")
@@ -26,12 +26,12 @@ def find_files(parentDirectory, directories):
             sys.exit(1)
 
     for dir_name in directories:
-        dir_path = os.path.join(parentDirectory, dir_name)
+        dir_path = os.path.join(parent_directory, dir_name)
         for dir_path, dir_names, file_names in os.walk(dir_path):
             for file_name in file_names:
                 if file_name.endswith(".md"):
-                    totalFiles += 1
-    print(totalFiles)            
+                    total_files += 1
+    print(total_files)            
 
-parent_directory = sys.argv[1]
-find_files(parent_directory, directories)
+PARENT_DIRECTORY = sys.argv[1]
+find_files(PARENT_DIRECTORY, directories)
