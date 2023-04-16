@@ -1,0 +1,65 @@
+{
+  "collapse-filter": false,
+  "search": "(-tag:#outline)(-tag:#recap) (-tag:#plot)",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#character",
+      "color": {
+        "a": 1,
+        "rgb": 2880028
+      }
+    },
+    {
+      "query": "tag:#npc",
+      "color": {
+        "a": 1,
+        "rgb": 14570208
+      }
+    },
+    {
+      "query": "tag:#location",
+      "color": {
+        "a": 1,
+        "rgb": 13404928
+      }
+    },
+    {
+      "query": "tag:#lore",
+      "color": {
+        "a": 1,
+        "rgb": 62916
+      }
+    },
+    {
+      "query": "tag:#organization",
+      "color": {
+        "a": 1,
+        "rgb": 15728640
+      }
+    },
+    {
+      "query": "tag:#item",
+      "color": {
+        "a": 1,
+        "rgb": 16120065
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -2.2,
+  "nodeSizeMultiplier": 1.11556013310093,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.510314557425018,
+  "repelStrength": 8.33357717629846,
+  "linkStrength": 0.201316752011704,
+  "linkDistance": 98,
+  "scale": 0.3947764787620868,
+  "close": false
+}

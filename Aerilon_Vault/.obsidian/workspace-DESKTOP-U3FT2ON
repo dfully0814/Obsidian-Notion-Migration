@@ -1,0 +1,128 @@
+{
+  "main": {
+    "id": "82dd7799ba6893bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "81a5672bd337391f",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0e16c109142605b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce9fe1ca2e001eb8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e8484a0fcc671a5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "def65917b69bac22",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Astral Sea",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3fdc9c3a2fd20635",
+    "type": "split",
+    "children": [
+      {
+        "id": "4174a039fe1f196d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2ebdd64f7d14c7c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "377feccb8f62cee6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c95e55882d88c5a5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "72e06eaec99fcf8c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "81a5672bd337391f",
+  "lastOpenFiles": [
+    "Secrets/Session Prep/Session 82.md",
+    "Secrets/Anarchs.md",
+    "Codex/Session Recaps/Session 75 - Confrontation.md",
+    "Codex/Session Recaps/Session 68 - The Guide.md",
+    "Codex/Locations/Transitory Plane.md",
+    "Codex/Session Recaps/Session 73 - The Paramount.md",
+    "Codex/Session Recaps/Session 74 - Time Lapse.md",
+    "().md",
+    "Secrets/Dak Grella.md",
+    "Initiative Tracker.md"
+  ]
+}

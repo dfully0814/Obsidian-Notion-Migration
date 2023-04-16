@@ -1,0 +1,15 @@
+#recap 
+# Last we left off...
+In the city of [[Yartar]], an unknown blue-skinned assassin began to make her way to the [[The Winter Winds]] presumably in search of [[Yang Tieh]], who was described to her by [[Teymir]] in an effort to test her merit as a possible recruit to [[Tamerland Quixat]]'s crew for a job he is preparing. As Yang sat at the bar, he was approached by a finely dressed man in a dark suit and hat who introduced himself as [[Gerard Vos]], owner and proprietor of [[Vos Industries]], a powerful weapon manufacturer and distributor in North Aerilon.
+
+Vos expressed his interest in Yang after seeing his duel in the street earlier in the evening. He also expressed a keen interest in Yang's newly acquired spear, mentioning that it seems to be powered by unique technology that Vos would possibly be interested in mass producing if his R&D department is able to successfully understand the technology and reverse engineer it.
+
+As the two continued talking in the pub, the sound of quick footfalls, a few gasps, and the shot of an energy blast were all heard almost simultaneously as the blue-skinned assassin was suddenly found lying motionless on the floor about 10 ft. from Vos and Yang with a smoking hole in her head. Yang looked over to an opposite corner of the room to see a dark-skinned man with a long leather coat and heather leather hat named [[Brandt]], Vos's bodyguard and seemingly close friend holding a highly technical and customized laser rifle. He also had a bionic right arm and his right eye seemed to have a red glow.
+
+Meanwhile, Azure managed to pickpocket a local mercenary who had thrown Ell out of the upscale pub, seeing her street urchin disguise. He found two vials of blood in the mercenary's pocket, each labeled with the family crest of [[House Cassalanter]]. [[Elleanna Corvus]] and [[Teymir]] meanwhile also managed to find the final recruits for Tamerland's crew who they gathered to give instructions regarding where to meet him.
+
+The party eventually made their way into the pub and all met Vos, who expressed an interest in employing the group to protect him in exchange for his resources and help to achieve their goals such as looking into the whereabouts of [[Mary Emsworth]] who [[Captain Alford Ainsley]] told the party had begun traveling to Yartar a little over a month ago as well as possibly manufacturing a grappling gun for Ell.
+
+Together in the Winter Winds, the party began to discuss the next steps. Yang and Teymir began to express a desire to foil whatever involvement the [[Everwatchers]] have in the current events, particular the presence of the [[Darkweave]], which you have heard some people call it in rumblings and rumors. [[Azure Flint]] seemed to be abnormally quiet as he listened on and fumbled with a deck of playing cards. The party seemed to agree that traveling to [[Thornhold]], a journey of 2+ weeks to the south, would be the next best step. Vos offered lodging in Yartar until the party is ready to embark.
+
+And that's where we pick up….

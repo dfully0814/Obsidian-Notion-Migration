@@ -1,0 +1,17 @@
+#recap 
+# Last we left off...
+[[Teymir]] continued his training with [[Dak Grella]] in Dak's home of [[Elall]]. Eventually, [[Dak Grella]] told [[Teymir]] that he thought [[Teymir]] was ready to travel back to his friends. He implored [[Teymir]] to find his son [[Zera]] and protect him as well as pass on the knowledge that he had learned for protecting himself and particularly his memories. [[Dak Grella]] shared that once they traveled back to the caverns under the citadel, he would likely be too weak to travel with the party and would only slow them down so he told [[Teymir]] to leave him once they arrived.
+
+As they joined hands, they were both transported back into their bodies as the fight in the prison room continued between the rest of the party and the [[Drow]] guards and arachnid creatures. As [[Teymir]] came back to his senses, the rest of the group watched as he moved much quicker and more confidently than they had seen him in a long time, twirling and attacking with his plasma staff as he cut off the head of one of the guards almost effortlessly. 
+
+You managed to dispose of the guards and find a nook in a wall of the tunnels beyond the prison to briefly rest while [[Yang Tieh]] scouted ahead and heard the echoing sound of tortured screams as well as a room filled with body parts, non-perishable provisions, and heavy burlap sacks filled with large glowing green eggs like you had scene in the previous chamber.
+
+After resting, [[Elleanna Corvus]] disguised the party as a group of [[Drow]] guards as you all made your into the tunnels and into an open chamber beyond where you saw a group of dead [[Everwatch Knights]] and the broken and beaten body of a young man hanging upside down from the ceiling by a heavy chain. [[Teymir]] soon recognized this man as his friend [[Fennis Roaringhorn]]. You also saw another [[Drow]] female changed to a wall opposite [[Fennis Roaringhorn]] who was later tortured in front of you by a [[Drow]] mage who was leading a patrol through the chamber.
+
+[[Teymir]] quickly cut [[Fennis Roaringhorn]] down with his plasma staff and hid the two of them an opposite wall in the chamber. [[Fennis Roaringhorn]] appeared to not recognize [[Teymir]] at all in spite of Teymir's repeated persuasions. However, whether he was talking out of pure desperation or last ditch effort to help those helping him, he began to frantically warn [[Teymir]] about a "woman" who would not be fooled by the disguise Teymir said he was wearing.
+
+Meanwhile, the rest of the party saw a four-armed hulking creature come around the corner with glowing red eyes and pick up the body of one of the dead [[Everwatch Knights]] and take it off into the darkness. After a few more moments, a shadowed forms began to coalesce out of the darkness of the chamber itself and began to hover around where the body of [[Fennis Roaringhorn]] was cut down. After a third shadow formed out of the darkness, the shadows began to swirl around one another and the ivory horned headdress of a [[Drow]] female with tribal tattoos along her arms and face began to appear out of the forms of the shadows.
+
+The party looked back to see [[Teymir]] helping [[Fennis Roaringhorn]] back out of the wall as he began to shout "She can see us!"
+
+And that's where we pick up....

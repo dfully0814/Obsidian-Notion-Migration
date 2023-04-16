@@ -1,0 +1,1000 @@
+{
+  "mapMarkers": [
+    {
+      "id": "leaflet-map",
+      "lastAccessed": 1680719915623,
+      "markers": [
+        {
+          "id": "ID_0898b949a8f8",
+          "type": "default",
+          "loc": [
+            -2.80859375,
+            1.49609375
+          ],
+          "link": "#CG1. Mud Room",
+          "layer": "%5B%5Bcassalanter_mountain_villa_layout.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.3048149621965778,
+            0.43079688436189334
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7a9a4a096a2a",
+          "type": "default",
+          "loc": [
+            -2.8355712890625,
+            1.28851318359375
+          ],
+          "link": "## CG2. Storage",
+          "layer": "%5B%5Bcassalanter_mountain_villa_layout.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5a4aba8bc969",
+          "type": "default",
+          "loc": [
+            -2.5504150390625,
+            1.50726318359375
+          ],
+          "link": "## CG3. Dining Room",
+          "layer": "%5B%5Bcassalanter_mountain_villa_layout.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_88394b387acb",
+          "type": "default",
+          "loc": [
+            -2.185049148350828,
+            1.0745916442556274
+          ],
+          "link": "##cg4. kitchen",
+          "layer": "%5B%5Bcassalanter_mountain_villa_layout.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.21893789170667777,
+            0.3351543331203187
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7a99cab8fb6b",
+          "type": "default",
+          "loc": [
+            -2.187286375446226,
+            1.254651800092252
+          ],
+          "link": "##cg5 parlor",
+          "layer": "%5B%5Bcassalanter_mountain_villa_layout.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.2556234467358667,
+            0.3354974907814463
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b989d8a978c9",
+          "type": "default",
+          "loc": [
+            -2.1986684896565922,
+            1.4957208557443726
+          ],
+          "link": "##cg6 sitting room",
+          "layer": "%5B%5Bcassalanter_mountain_villa_layout.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.3047389885161635,
+            0.3372433393361819
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_285b78ea982a",
+          "type": "default",
+          "loc": [
+            -0.9425867642302062,
+            1.5991654544230813
+          ],
+          "link": "##cg8 master bedroom",
+          "layer": "%5B%5Bcassalanter_mountain_villa_layout.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3a190bd8f9fb",
+          "type": "default",
+          "loc": [
+            -1.4543119795084998,
+            1.3218212119794692
+          ],
+          "link": "##cg7 bedrooms",
+          "layer": "%5B%5Bcassalanter_mountain_villa_layout.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8aea9a885b2a",
+          "type": "default",
+          "loc": [
+            -1.2863411073179147,
+            1.0913520527657632
+          ],
+          "link": "#cg7 bedrooms",
+          "layer": "%5B%5Bcassalanter_mountain_villa_layout.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6b7b1b5a88ab",
+          "type": "default",
+          "loc": [
+            -0.9308678661703979,
+            1.044476969535857
+          ],
+          "link": "#cg7 bedrooms",
+          "layer": "%5B%5Bcassalanter_mountain_villa_layout.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_587b9a28cbe9",
+          "type": "default",
+          "loc": [
+            -1.016806451942325,
+            2.228072821090991
+          ],
+          "link": "#cg7 bedrooms",
+          "layer": "%5B%5Bcassalanter_mountain_villa_layout.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b968a889c849",
+          "type": "default",
+          "loc": [
+            -1.1675777462196177,
+            2.076794358405066
+          ],
+          "link": "#cg7 bedrooms",
+          "layer": "%5B%5Bcassalanter_mountain_villa_layout.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.42312722304154154,
+            0.17908921691565138
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_18b818ab9a99",
+          "type": "default",
+          "loc": [
+            -0.9425867642302062,
+            2.6343235424168454
+          ],
+          "link": "#cg7 bedrooms",
+          "layer": "%5B%5Bcassalanter_mountain_villa_layout.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_699b4b58babb",
+          "type": "default",
+          "loc": [
+            -2.2163882197963103,
+            2.6226047716093692
+          ],
+          "link": "#Coach House",
+          "layer": "%5B%5Bcassalanter_mountain_villa_layout.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_39788bc868a8",
+          "type": "default",
+          "loc": [
+            -3.333345454845987,
+            2.1711292114887453
+          ],
+          "link": "#C10 Banquet Kitchen Stairs",
+          "layer": "%5B%5Bcassalanter_mountain_villa_layout.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9abb385a083a",
+          "type": "default",
+          "loc": [
+            -3.2466620734015925,
+            2.484375
+          ],
+          "link": "#c9 family dining room",
+          "layer": "%5B%5Bcassalanter_mountain_villa_layout.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7bdabaa8a968",
+          "type": "default",
+          "loc": [
+            -3.192897774467198,
+            2.7890625
+          ],
+          "link": "#c12 smoking room",
+          "layer": "%5B%5Bcassalanter_mountain_villa_layout.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_28d9895bb93a",
+          "type": "default",
+          "loc": [
+            -3.4776632591084065,
+            2.470774453029702
+          ],
+          "link": "#c5 foyer",
+          "layer": "%5B%5Bcassalanter_mountain_villa_layout.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e88b68db1b29",
+          "type": "default",
+          "loc": [
+            -3.4449397976993943,
+            2.8396664425562723
+          ],
+          "link": "#c8 covered porch",
+          "layer": "%5B%5Bcassalanter_mountain_villa_layout.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a9d82a5ab839",
+          "type": "default",
+          "loc": [
+            -3.5987750721665916,
+            2.82421875
+          ],
+          "link": "#c7 cloakroom",
+          "layer": "%5B%5Bcassalanter_mountain_villa_layout.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8bbaebda2809",
+          "type": "default",
+          "loc": [
+            -3.7643290966337895,
+            2.8125
+          ],
+          "link": "#c6 office",
+          "layer": "%5B%5Bcassalanter_mountain_villa_layout.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c90b9aabf819",
+          "type": "default",
+          "loc": [
+            -3.8080434896565927,
+            2.4806643368118997
+          ],
+          "link": "#c1 entrance hall",
+          "layer": "%5B%5Bcassalanter_mountain_villa_layout.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fabbeb5aebe8",
+          "type": "default",
+          "loc": [
+            -3.604705061442999,
+            2.5076920680595354
+          ],
+          "layer": "%5B%5Bcassalanter_mountain_villa_layout.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_08db588ba9b8",
+          "type": "default",
+          "loc": [
+            -3.9562720032372467,
+            2.2576916241667018
+          ],
+          "link": "#c3 library",
+          "layer": "%5B%5Bcassalanter_mountain_villa_layout.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_29f839b97918",
+          "type": "default",
+          "loc": [
+            -3.7540655065630255,
+            1.8351917114887457
+          ],
+          "link": "#c4 reading room",
+          "layer": "%5B%5Bcassalanter_mountain_villa_layout.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_49baaad91a18",
+          "type": "default",
+          "loc": [
+            -4.215766951065604,
+            2.279936684097229
+          ],
+          "link": "#c2 garden mudroom",
+          "layer": "%5B%5Bcassalanter_mountain_villa_layout.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1b4a29593a59",
+          "type": "default",
+          "loc": [
+            -3.6171875,
+            2.015625
+          ],
+          "link": "#c11 pantry",
+          "layer": "%5B%5Bcassalanter_mountain_villa_layout.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4a1aa8f89a5b",
+          "type": "default",
+          "loc": [
+            -3.4830452582918,
+            1.7070706714983288
+          ],
+          "link": "#c25 butterfly garden",
+          "layer": "%5B%5Bcassalanter_mountain_villa_layout.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2a48eaf82a49",
+          "type": "default",
+          "loc": [
+            -3.2721050932152513,
+            3.293010987443492
+          ],
+          "link": "#c25a garden balcony",
+          "layer": "%5B%5Bcassalanter_mountain_villa_layout.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5a3bb939fa2b",
+          "type": "default",
+          "loc": [
+            -3.1090149494219306,
+            3.6447863045799522
+          ],
+          "link": "#c14 banquet kitchen",
+          "layer": "%5B%5Bcassalanter_mountain_villa_layout.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fa68aa69480b",
+          "type": "default",
+          "loc": [
+            -3.6650037641237896,
+            3.6439800946246352
+          ],
+          "link": "#c13 ballroom",
+          "layer": "%5B%5Bcassalanter_mountain_villa_layout.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b99ad92ad91b",
+          "type": "default",
+          "loc": [
+            -3.0699519558892367,
+            3.988536914932599
+          ],
+          "link": "#c15 banquet hall",
+          "layer": "%5B%5Bcassalanter_mountain_villa_layout.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6bfa997ac95a",
+          "type": "default",
+          "loc": [
+            -3.347299209971365,
+            4.25806864350456
+          ],
+          "link": "#c16 piano room",
+          "layer": "%5B%5Bcassalanter_mountain_villa_layout.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fb8908385b88",
+          "type": "default",
+          "loc": [
+            -3.019170064296734,
+            4.226818588017956
+          ],
+          "link": "#c16a storage closet",
+          "layer": "%5B%5Bcassalanter_mountain_villa_layout.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4869989b089a",
+          "type": "default",
+          "loc": [
+            -2.8043235998669163,
+            4.133068421558143
+          ],
+          "link": "#c16b powder rooms",
+          "layer": "%5B%5Bcassalanter_mountain_villa_layout.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f83819fbc9ba",
+          "type": "default",
+          "loc": [
+            -2.7965110011603773,
+            4.281506185119513
+          ],
+          "link": "#c16b powder rooms",
+          "layer": "%5B%5Bcassalanter_mountain_villa_layout.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b83a0a6b290b",
+          "type": "default",
+          "loc": [
+            -2.2963517569952745,
+            3.7771002331658075
+          ],
+          "link": "#c21 master bedroom",
+          "layer": "%5B%5Bcassalanter_mountain_villa_layout.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2aeab84a69b9",
+          "type": "default",
+          "loc": [
+            -1.9116477744671976,
+            3.8913698348352446
+          ],
+          "link": "#c20 linen closet",
+          "layer": "%5B%5Bcassalanter_mountain_villa_layout.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_c8b8aadb881a",
+          "type": "default",
+          "loc": [
+            -1.6346958392386235,
+            3.579940115943698
+          ],
+          "layer": "%5B%5Bcassalanter_mountain_villa_layout.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "These closets are filled with stuffed animals and spare blankets",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fa28eb9aab59",
+          "type": "default",
+          "loc": [
+            -1.6346958392386235,
+            3.8338468167723567
+          ],
+          "layer": "%5B%5Bcassalanter_mountain_villa_layout.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "these closets are filled with stuffed animals and spare blankets",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4b5beac81bda",
+          "type": "default",
+          "loc": [
+            -1.4313745263573887,
+            3.6949396057443726
+          ],
+          "link": "#c18 twins' bedroom",
+          "layer": "%5B%5Bcassalanter_mountain_villa_layout.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fac8c9b96819",
+          "type": "default",
+          "loc": [
+            -1.3729737825695725,
+            4.244003795034037
+          ],
+          "link": "#c17 playroom",
+          "layer": "%5B%5Bcassalanter_mountain_villa_layout.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8a682989fad9",
+          "type": "default",
+          "loc": [
+            -2.0292320739188345,
+            4.150253628574225
+          ],
+          "link": "#c19 master sitting room",
+          "layer": "%5B%5Bcassalanter_mountain_villa_layout.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5bf84a8a1888",
+          "type": "default",
+          "loc": [
+            -1.983424024607161,
+            3.475963681631625
+          ],
+          "link": "#c22 ammalia's private study",
+          "layer": "%5B%5Bcassalanter_mountain_villa_layout.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8a5948bbfb19",
+          "type": "default",
+          "loc": [
+            -0.7131567236426113,
+            3.318896183620266
+          ],
+          "link": "#c23 attic landing",
+          "layer": "%5B%5Bcassalanter_mountain_villa_layout.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_48fba9ea3a0a",
+          "type": "default",
+          "loc": [
+            -0.7477808359627865,
+            3.9194603270225086
+          ],
+          "link": "#c24 prison",
+          "layer": "%5B%5Bcassalanter_mountain_villa_layout.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e85819299828",
+          "type": "default",
+          "loc": [
+            -0.9544320802127829,
+            3.7664839118255715
+          ],
+          "link": "#c24a attic storage",
+          "layer": "%5B%5Bcassalanter_mountain_villa_layout.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_fa39aa2969c8",
+          "type": "default",
+          "loc": [
+            -4.38689606962121,
+            2.7534996580360582
+          ],
+          "layer": "%5B%5Bcassalanter_mountain_villa_layout.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2aa879dbd869",
+          "type": "default",
+          "loc": [
+            -4.385795548934396,
+            2.9265270385112543
+          ],
+          "link": "#c26 cellar",
+          "layer": "%5B%5Bcassalanter_mountain_villa_layout.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ab0b08c8caeb",
+          "type": "default",
+          "loc": [
+            -4.369486700973334,
+            3.384559474925826
+          ],
+          "link": "#c28 wine cellar",
+          "layer": "%5B%5Bcassalanter_mountain_villa_layout.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ba78791989da",
+          "type": "default",
+          "loc": [
+            -4.7991124059115915,
+            2.7734375
+          ],
+          "link": "#c27 false vault",
+          "layer": "%5B%5Bcassalanter_mountain_villa_layout.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_28d9ab88aadb",
+          "type": "default",
+          "loc": [
+            -4.995916191957199,
+            3.348773979090872
+          ],
+          "link": "#c29 secret vault",
+          "layer": "%5B%5Bcassalanter_mountain_villa_layout.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Codex/Locations/Cassalanter Mountain Villa.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#ff0000",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [
+    {
+      "type": "Room",
+      "iconName": "ankh",
+      "color": "#fc0303",
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    }
+  ],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": true,
+  "layerMarkers": false,
+  "previousVersion": "5.0.4",
+  "version": {
+    "major": 5,
+    "minor": 0,
+    "patch": 4
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {
+    "darkMode": false,
+    "defaultZoom": 7,
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "1000px",
+    "image": "[[cassalanter_mountain_villa_layout.png]]",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "[[cassalanter_mountain_villa_layout.png]]"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [
+      "default, 39.983334, -82.983330, [[Note]]"
+    ],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": 10,
+    "minZoom": 1,
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": 1,
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 1,
+    "zoomFeatures": false,
+    "id": "leaflet-map",
+    "width": "1100px",
+    "unit": "meters",
+    "filterTag": []
+  },
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
+  "defaultAttribution": "Map tiles by <a href=\"http://stamen.com\">Stamen Design</a>, under <a href=\"http://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>. Data by <a href=\"http://openstreetmap.org\">OpenStreetMap</a>, under <a href=\"http://www.openstreetmap.org/copyright\">ODbL</a>."
+}

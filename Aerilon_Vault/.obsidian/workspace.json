@@ -1,0 +1,249 @@
+{
+  "main": {
+    "id": "82dd7799ba6893bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e40ee8943f5b343",
+        "type": "tabs",
+        "dimension": 45.87513935340022,
+        "children": [
+          {
+            "id": "85efb67e1b85348d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DM/Session Prep/Session 115.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c8a69f75d6457c89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Codex/Lore/Sea Maiden's Faire Festival.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "963a1a470d3e7f5d",
+        "type": "tabs",
+        "dimension": 54.12486064659978,
+        "children": [
+          {
+            "id": "a19673368595548d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DM/Ruins of Illusk.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b451e2a8b701f42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Codex/NPCs/Ethes Amel.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d5e1b1dec98243bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Codex/Lore/Blessing of the Fleet Prayer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6e337dd0fdd4a971",
+    "type": "split",
+    "children": [
+      {
+        "id": "81953c743369c4c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e32d314912c2826e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1b847e425a79f053",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "retired",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 293.5
+  },
+  "right": {
+    "id": "accae31bae0b70de",
+    "type": "split",
+    "children": [
+      {
+        "id": "eca7de36796c8912",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1901f57e5e2f2eb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "deb41404ab3d05ff",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "314e011705953216",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "4f026018f43b055a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Codex/Lore/Blessing of the Fleet Prayer.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "65c627c1fcd9b9f0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Codex/Lore/Blessing of the Fleet Prayer.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "242f01e3627f5057",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Codex/Lore/Blessing of the Fleet Prayer.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 370.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "d5e1b1dec98243bd",
+  "lastOpenFiles": [
+    "Codex/NPCs/Ethes Amel.md",
+    "Codex/Lore/Blessing of the Fleet Prayer.md",
+    "DM/Session Prep/Session 115.md",
+    "Codex/Lore/Sea Maiden's Faire Festival.md",
+    "Codex/Organizations/Sea Maiden's Faire.md",
+    "DM/Host Tower of the Arcane.md",
+    "DM/Luskan Encounters.md",
+    "Codex/Organizations/Arcane Brotherhood.md",
+    "DM/Ruins of Illusk.md",
+    "DM/Everwatcher Nullifer.md",
+    "Codex/NPCs/Veilan Gant.md",
+    "Codex/Locations/Luskan.md",
+    "Codex/Organizations/Ezrella.md",
+    "DM/Dragon Beach.md",
+    "Codex/NPCs/Malia Esbyn.md",
+    "Codex/NPCs/Arthund Jamas.md",
+    "DM/Arc Infinitus.md",
+    "Codex/NPCs/Ethes Grahlund.md",
+    "Codex/Characters/Fennis Roaringhorn.md",
+    "Codex/Session Recaps/Session 114.md",
+    "Codex/Session Recaps/Session 113 - A Cabin in the Woods.md",
+    "DM/Session Prep/Session 114 - Outline.md",
+    "Codex/NPCs/Kerth Roaringhorn.md",
+    "Codex/NPCs/Lyrala Xorlarrin.md",
+    "Codex/NPCs/Veldyn Xorlarrin.md",
+    "Codex/Session Recaps/Session 112 - The Blackblades.md",
+    "Codex/Attachments/North_Aerilon_Map-min.jpg"
+  ]
+}

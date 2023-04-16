@@ -11,5 +11,11 @@ def remove_file_name_from_path(path):
     return PurePath(os.path.dirname(path))
 
 for fileName, path in vault.md_file_index.items():
-    remove_file_name_from_path(path)
+    pure_path = remove_file_name_from_path(path)
     
+    files_to_create.update({
+        fileName : pure_path
+    })
+    
+print(files_to_create)
+        

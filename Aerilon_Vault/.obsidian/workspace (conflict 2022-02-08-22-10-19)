@@ -1,0 +1,120 @@
+{
+  "main": {
+    "id": "82dd7799ba6893bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b153da8c3438fa9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Codex/NPCs/Captain Avareen Moonlight.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "58cf4645dc7dded9",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "2815627e74ba23b8",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "ee125cfb56b763a9",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "7f6a2af7714f686b",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "b284e3fea2a75a57",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8d298e80f8b6bd35",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Codex/NPCs/Captain Avareen Moonlight.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "071d5b5f37aae7cc",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Codex/NPCs/Captain Avareen Moonlight.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "5b4986b567e56f5d",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Codex/NPCs/Captain Avareen Moonlight.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "7b153da8c3438fa9",
+  "lastOpenFiles": [
+    "Codex/NPCs/Captain Avareen Moonlight.md",
+    "Codex/NPCs/Abrak Vraelo.md",
+    "Codex/Aerilon Dashboard.md",
+    "Codex/Session Recaps/Session 56 - The Month Passes.md",
+    "Codex/Locations/Sea of Fallen Stars.md",
+    "Codex/NPCs/Szass Tam.md",
+    "Codex/Locations/Sword Mountains.md",
+    "Codex/Locations/Sword Coast.md",
+    "Secrets/Svardborg Layout.md",
+    "Codex/Locations/Svardborg.md"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "foldHeading": true,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "Codex/Attachments",
+  "promptDelete": false,
+  "readableLineLength": true,
+  "spellcheck": true,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "2",
+    "downscalePercent": 63
+  },
+  "showFrontmatter": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "DM"
+}

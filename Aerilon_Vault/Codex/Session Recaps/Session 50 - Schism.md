@@ -1,0 +1,19 @@
+#recap 
+# Last we left off...
+Lead by [[Krol]], you continued your journey through the Nether Mountains. You came to a large cavern where [[Elleanna Corvus]] transformed the visual appearance of the party to look like the [[Blood of Moureme]] before you passed into the cavern. As you walked through the large open cavern with a large waterfall to one side, you saw creatures hovering near the top of the ceiling with almost transparent tendrils connecting small snowflakes like a net and they hovered through the air fluidly like jellyfish. Possessing an academic fascination with the creatures, Krol told you that these creatures are known as [[Frostveils]] and are native to the uncharted north. He also told you that during the winter to spring festival of the [[Shattering]] many tourists will travel to less harsh areas of the north to view large groups of these creatures that seem to appear for unknown reasons during this time. You also recognized these creatures as the same that seemed to come out of [[Arharzel]]'s mouth as he raised one of the fallen hobgoblins in the arena into a white draconic creature.
+
+As you continued, Ell engaged [[Robinson Fellweather]] regarding why he tried to prevent Ell from stopping [[Teymir]] from going back into the underground tunnel on the floating island of the [[Moon Pass]]. Robinson in turn refused Ell an explanation, leaving a tension between the two as the conversation concluded. Ell finished by telling him that her father taught her that respect was earned by giving it to others, never by expecting it.
+
+You eventually found yourselves back in the cavern where you started where you saw two younger centipede creatures in the middle of the cavern. After struggling for a time to form a plan together, you were able to eventually make your way to the area of the room where Teymir began to feel a strong gravitational pull on the metal disc [[Captain Alford Ainsley]] gave to him. You were all then transported back into the underground area of the shop where you met [[Mary Emsworth]], [[Evelyn's General Store]].
+
+You saw the secret tunnel collapsed that leads out into the [[Dessarin Valley]], seeing scorched marks on some of the dirt cascading into the room. You then slept in shifts, noticing that Mary strangely did not seem to be coming down to greet you.
+
+During his watch, Teymir woke up Ell and asked her more about [[Tanavast Adamantus]]. Ell confessed to Teymir that Tanavast was her father. Not much other detail was given as the night waned on and they decided more could be discussed later.
+
+Once you all awoke from your rest, you saw a blue light blinking on one of the consoles in the room. After Teymir engaged the console, he began communicating with Captain Ainsley once again, who told you that Mary, [[Jovi]], and [[Tick-Clack]] had escaped [[Amphail]] recently after an attack on the city. He said that apparently hundreds of feral creatures had come from the direction of [[Kheldell]], lead by a figure in red battle robes resembling that of the [[Thayans]]. Ainsley also mentioned that he discovered a group of [[Drow]] had attacked [[Thornhold]] and are currently holding it.
+
+You then began pressing Ainsley for more info that he may have and he told you he wouldn't be able to share more safely over the communication line. You then began collaborating with him regarding a safe place he could meet you. He offered the town of [[Phandalin]] as a more quiet and low activity area in the valley.
+
+He also directed Teymir to a drawer where he had left 4 [[Spell Lenses of Bifurcation]] that he designed himself.
+
+That's where we pick up. You are currently still collaborating with Ainsley regarding a meeting spot.

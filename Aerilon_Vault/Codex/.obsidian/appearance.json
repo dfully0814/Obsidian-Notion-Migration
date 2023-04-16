@@ -1,0 +1,7 @@
+{
+  "baseFontSize": 16,
+  "cssTheme": "Dracula for Obsidian",
+  "enabledCssSnippets": [
+    "table_view_border"
+  ]
+}

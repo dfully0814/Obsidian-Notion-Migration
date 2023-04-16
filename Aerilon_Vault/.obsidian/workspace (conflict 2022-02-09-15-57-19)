@@ -1,0 +1,120 @@
+{
+  "main": {
+    "id": "82dd7799ba6893bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b153da8c3438fa9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Codex/Aerilon Dashboard.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "33395ccbf7d15201",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ee585d592317418a",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "d1cd93b41829e1bd",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "d26a62c83e876dd0",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "c13f6831f02212c2",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9306c3a2301df6c8",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Codex/Aerilon Dashboard.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "fb32cc4b9e130816",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Codex/Aerilon Dashboard.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "298f08ddacbad809",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Codex/Aerilon Dashboard.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "7b153da8c3438fa9",
+  "lastOpenFiles": [
+    "Codex/Aerilon Dashboard.md",
+    "Codex/Session Recaps/Session 56 - The Month Passes.md",
+    "Codex/Locations/Sea of Fallen Stars.md",
+    "Codex/NPCs/Szass Tam.md",
+    "Codex/Locations/Sword Mountains.md",
+    "Codex/Locations/Sword Coast.md",
+    "Secrets/Svardborg Layout.md",
+    "Codex/Locations/Svardborg.md",
+    "Codex/Locations/Sundered Plane.md",
+    "Codex/Creatures/Suijin.md"
+  ]
+}
