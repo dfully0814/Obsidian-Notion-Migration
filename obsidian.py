@@ -2,7 +2,7 @@ import os
 from pathlib import PurePath
 import obsidiantools.api as otools
 
-vault = otools.Vault("C:\\Users\\Daniel\Documents\\Aerilon Vault\\Aerilon-Vault-Cloud").connect().gather()
+vault = otools.Vault("Aerilon_Vault").connect().gather()
 
 # dictionary of files to send to the notion service with the .md suffixes stripped out
 files_to_create = {}
