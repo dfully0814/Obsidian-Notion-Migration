@@ -23,4 +23,3 @@ for fileName, path in vault.md_file_index.items():
         "notion_folder" : notion_folder,
         "contents" : io.BytesIO(vault.get_readable_text(fileName))
     })
-print(files_to_create)   
