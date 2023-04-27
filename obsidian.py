@@ -14,7 +14,6 @@ vault = otools.Vault("Aerilon_Vault").connect().gather()
 
 # dictionary of files to send to the notion service with the .md suffixes stripped out
 files_to_create = {}
-
 for fileName, path in vault.md_file_index.items():
     # Get the lowest directory in the path after getting the parent of the file
     notion_folder = PurePath(path).parent.parts[-1]
