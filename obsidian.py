@@ -10,15 +10,32 @@ from pathlib import PurePath
 import io
 import obsidiantools.api as otools
 
-vault = otools.Vault("Aerilon_Vault").connect().gather()
 
-# dictionary of files to send to the notion service with the .md suffixes stripped out
-files_to_create = {}
-for fileName, path in vault.md_file_index.items():
-    # Get the lowest directory in the path after getting the parent of the file
-    notion_folder = PurePath(path).parent.parts[-1]
-    files_to_create.update({
-        "fileName" : fileName,
-        "notion_folder" : notion_folder,
-        "contents" : io.BytesIO(vault.get_readable_text(fileName))
-    })
+class VaultService:
+    def __init__(self, vault_path):
+        self.vault_path = vault_path
+        self.vault = otools.Vault(self.vault_path).connect().gather()
+        
+    def get_files_to_create(self):
+        """
+        Get the files to send to Notion from Obsidian vault
+
+        Author:
+            Daniel Fuller
+            
+        Returns:
+            tuple: A tuple of {file_name: <text>, notion_folder: <notion_folder>, contents: <bytes>}
+        """
+        # Gather Obsidian vault metadata
+        # dictionary of files to send to the notion service with the .md suffixes stripped out
+        files_to_create = []
+        for file_name, path in self.vault.md_file_index.items():
+            # Get the lowest directory in the path after getting the parent of the file
+            notion_folder = PurePath(path).parent.parts[-1]
+            files_to_create.append({
+                "file_name" : file_name,
+                "notion_folder" : notion_folder,
+                "contents" : io.BytesIO(self.vault.get_readable_text(file_name).encode("utf-8"))
+            })
+        return tuple(files_to_create)
+    
