@@ -35,7 +35,7 @@ class VaultService:
             files_to_create.append({
                 "file_name" : file_name,
                 "notion_folder" : notion_folder,
-                "contents" : io.BytesIO(self.vault.get_readable_text(file_name).encode("utf-8"))
+                "contents" : io.BytesIO(self.vault.get_source_text(file_name).encode("utf-8"))
             })
         return tuple(files_to_create)
     

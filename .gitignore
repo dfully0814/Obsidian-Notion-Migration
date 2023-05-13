@@ -1,3 +1,6 @@
 .vscode/*
 env/*
 myenv/*
+__pycache__/*
+__pycache__/obsidian.cpython-310.pyc
+__pycache__/notion.cpython-310.pyc
