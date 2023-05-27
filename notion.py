@@ -5,6 +5,7 @@ import markdown
 from notion_client import Client, APIResponseError
 from notion_page_service import PageBlockProcessor
 import uuid
+import sys
 
 # DATABASE_ID = "dc8f63b3bc874a93818676af32fbad0e"
 notion = Client(auth=os.environ["NOTION_API_KEY"])
@@ -15,10 +16,7 @@ class NotionService:
         self.files_to_create = files_to_create
         
     def create_pages(self):
-        i = 0
         for file in self.files_to_create:
-            if (i == 1):
-                break
             try:
                 child_contents = PageBlockProcessor(
                         file["contents"].getvalue().decode("utf-8")
@@ -38,20 +36,22 @@ class NotionService:
                         "Type": {
                             "id": str(uuid.uuid4()),
                             "select": {
-                                "name": "Location"
+                                "name": file["parent_folder"]
                             }
                         }
                     },
-                    children=child_contents
-                    # Add the other database properties for the page
-                    
+                    children=child_contents                    
                 )
                 self.process_response(page_create_response)
-                # time.sleep(5)
+                time.sleep(1)
             except APIResponseError as error:
-                logging.error(error)  
-            i += 1
- 
+                file_name = file["file_name"]
+                log_file = open("output.log", "a", encoding="utf-8")
+                
+                log_file.write(f"Error creating {file_name} == " + str(error) + "\n")
+                
+                log_file.close()
+                 
     def process_response(self, response):
         page_id = response.get("id")
         if (page_id):
