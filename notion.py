@@ -4,6 +4,7 @@ import time
 import markdown
 from notion_client import Client, APIResponseError
 from notion_page_service import PageBlockProcessor
+import uuid
 
 # DATABASE_ID = "dc8f63b3bc874a93818676af32fbad0e"
 notion = Client(auth=os.environ["NOTION_API_KEY"])
@@ -33,47 +34,23 @@ class NotionService:
                                         }
                                     }
                             ]
+                        },
+                        "Type": {
+                            "id": str(uuid.uuid4()),
+                            "select": {
+                                "name": "Location"
+                            }
                         }
                     },
                     children=child_contents
+                    # Add the other database properties for the page
+                    
                 )
                 self.process_response(page_create_response)
                 # time.sleep(5)
             except APIResponseError as error:
                 logging.error(error)  
             i += 1
-    
-    def _split_rich_text(self, file_contents):
-        if (len(file_contents) <= 2000):
-            return
-        
-        chunks = []
-        chunk_size = 2000
-        current_chunk = ""
-        
-        words = file_contents.split()
-        chunks = []
-        current_chunk = ""
-        for word in words:
-            if len(current_chunk) + len(word) + 1 <= chunk_size:  # +1 for the space between words
-                current_chunk += " " + word if current_chunk else word
-            else:
-                chunks.append({
-                    "type": "text",
-                    "text": {
-                        "content": current_chunk
-                    }
-                })
-                current_chunk = word
-        if current_chunk:
-            chunks.append({
-                    "type": "text",
-                    "text": {
-                        "content": current_chunk
-                    }
-            })
-                
-        return chunks
  
     def process_response(self, response):
         page_id = response.get("id")
