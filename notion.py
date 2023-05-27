@@ -1,7 +1,9 @@
 import os
 import logging
+import time
 import markdown
 from notion_client import Client, APIResponseError
+from notion_page_service import PageBlockProcessor
 
 # DATABASE_ID = "dc8f63b3bc874a93818676af32fbad0e"
 notion = Client(auth=os.environ["NOTION_API_KEY"])
@@ -17,6 +19,9 @@ class NotionService:
             if (i == 1):
                 break
             try:
+                child_contents = PageBlockProcessor(
+                        file["contents"].getvalue().decode("utf-8")
+                    ).convert_to_pageblocks()
                 page_create_response = notion.pages.create(
                     parent={"database_id": self.database_id},
                     properties={
@@ -30,17 +35,7 @@ class NotionService:
                             ]
                         }
                     },
-                    children=[
-                        {
-                            "object": "block",
-                            "type": "paragraph",
-                            "paragraph": {
-                                "rich_text": self._split_rich_text(
-                                    file["contents"].getvalue().decode("utf-8")
-                                )     
-                            }
-                        }
-                    ]
+                    children=child_contents
                 )
                 self.process_response(page_create_response)
                 # time.sleep(5)

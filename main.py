@@ -2,7 +2,7 @@ from obsidian import VaultService
 from notion import NotionService
 
 print("Gathering vault metadata...")
-vault_service = VaultService("Aerilon_Vault")
+vault_service = VaultService("Aerilon_Vault/Codex")
 
 print("Getting obsidian files to create...")
 obsidian_files = vault_service.get_files_to_create()
