@@ -1,7 +1,0 @@
-# **Last we left off…**
-
-[[Azure Flint]] recalled from his past experiences that the [[Fortunate Son]] ship was mentioned by crewmates as a privateer vessel they were trying to avoid. [[Teymir]] tried to tell [[Azure Flint]] about finding the maps in [[Captain Avareen Moonlight]]'s room and that she may not be on this mission for the same reasons they are, but [[Azure Flint]] shut the conversation down by telling [[Teymir]] that he couldn't remember much about the [[Fortunate Son]].
-
-The ship was caught in a storm but the crew successfully turned the ship into the gale to prevent any critical damage to the hull. While [[Azure Flint]] was swimming below the ship, he sensed an invisible wave of some kind disperse through the water like a sound wave, making him feel a primal survival instinct he hasn't felt or experienced in a long time
-
-The crew successfully fought two water creatures. [[Azure Flint]] and [[Gregor]] tangled with the serpent creature and both almost died. [[Teymir]] fought the other water creature on board the ship. [[Teymir]] eventually defeated the creature by ordering a full broadside of all ship cannons after knocking the creature back in the water off the ship. [[Azure Flint]] destroyed the serpent as it knocked him unconscious by causing Hellish Rebuke and causing a search of fire and neurotic energy to burst forth into its body and out its eyes. [[Teymir]] heard [[Captain Avareen Moonlight]] speak to the sea serpent in a language he didn't understand.

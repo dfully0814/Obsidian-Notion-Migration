@@ -1,7 +1,0 @@
-- If a creature is invisible, it does NOT mean that they are **hidden**. This can be narratively explained by imagining the creature still has some transparent form that it's possible to detect as they move.
-- In order for a creature to become **hidden** they must take the **Hide** action.
-	- When you take the **Hide** action, you make a Dexterity (Stealth) check in an attempt to hide, following the rules for hiding. If you succeed, you gain certain benefits, as described in the [Unseen Attackers and Targets](https://www.dndbeyond.com/sources/phb/combat#UnseenAttackersandTargets). 
-- A **Hidden** target is a target that has used the hide action to become hidden. Depending on the situation, this hide check can have a DC set by the DM to successfully become hidden, or just automatically work. Usually the stealth roll used here will be the mark to beat when being Searched for.
-- Once a creature has successfully **Hidden** from an enemy, that creature's position becomes **unknown**. This means that if a creature is **invisible** but NOT YET successfully hidden, it's position is still known. Being **unseen** is NOT the same as being **hidden**. 
-	- As long as a creature is only **unseen**, an enemy can attack the creature but with disadvantage since their approximate location is still known. 
-	- Once a creature successfully hides in a contested Stealth roll against against the enemies Perception, the enemy must spend an action to search for the creature in another contested roll.

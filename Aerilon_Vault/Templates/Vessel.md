@@ -1,6 +1,0 @@
----
-thumbnail:
----
-#vessel 
-
-# Description

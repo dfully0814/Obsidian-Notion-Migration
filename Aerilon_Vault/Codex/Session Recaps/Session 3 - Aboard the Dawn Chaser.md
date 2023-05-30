@@ -1,3 +1,0 @@
-# **Last we left off…**
-
-[[Teymir]] found a map in [[Captain Avareen Moonlight]]'s quarters showing maps up to [[Ironhaven]] and the north of the [[Sea of Moving Ice]]. Found emphasis about the [[Fortunate Son]] and that it had been in a merchant fleet with the [[Jade Lion]] and also seems to have disappeared. [[Teymir]] and [[Azure Flint]] became more well-acquainted with the crew of the [[Dawn Chaser]].

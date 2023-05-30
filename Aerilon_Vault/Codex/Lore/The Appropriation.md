@@ -1,6 +1,0 @@
----
-thumbnail:
----
-#lore
-# Description
-

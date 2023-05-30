@@ -1,6 +1,0 @@
-#recap 
-# **Last we left off…**
-
-[[Azure Flint]] unexpectedly boarded the [[Dawn Chaser]] while it was docked and a fight with [[Darsh Ironthorn]] ensued. [[Raffin]], the last deck hang aboard the ship before [[Azure Flint]] was executed by [[Captain Avareen Moonlight]] as a liability to the ship. [[Azure Flint]] and [[Teymir]] met [[Nora]], a mysterious [[Tiefling]] at their local tavern they frequent.
-
-She was an alchemist selling various mysterious items out of a bag of holding. [[Azure Flint]] gave a bag of magical heating rocks from the tavern to an orphan girl [[Teymir]] showed his magical serpent staff to [[Sighi Thorgison]] and [[Sighi Thorgison]] mentioned to him that the staff didn't look [[Drow]] made [[Sighi Thorgison]] explained the lighthouse mission to [[Teymir]], [[Azure Flint]], and [[Captain Avareen Moonlight]]. In confidence, [[Sighi Thorgison]] told [[Teymir]] that an idol is what was being smuggled on the [[Jade Lion]] into [[Thornhold]] and he was somehow complicit in the operation going wrong. So his life depends on retrieving the idol safely.
