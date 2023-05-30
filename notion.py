@@ -40,7 +40,7 @@ class NotionService:
                             }
                         }
                     },
-                    children=child_contents                    
+                    children=child_contents            
                 )
                 self.process_response(page_create_response)
                 time.sleep(1)
