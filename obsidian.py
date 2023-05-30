@@ -15,6 +15,7 @@ class VaultService:
     def __init__(self, vault_path):
         self.vault_path = vault_path
         self.vault = otools.Vault(self.vault_path).connect().gather()
+        self.front_matter_index = self.get_front_matter_index()
         
     def get_files_to_create(self):
         """
@@ -35,7 +36,16 @@ class VaultService:
             files_to_create.append({
                 "file_name" : file_name,
                 "parent_folder" : parent_folder,
-                "contents" : io.BytesIO(self.vault.get_source_text(file_name).encode("utf-8"))
+                "contents" : io.BytesIO(self.vault.get_source_text(file_name).encode("utf-8")),
+                "imageUrl": self.front_matter_index.get(file_name).get("thumbnail")
             })
         return tuple(files_to_create)
+
+    def get_front_matter_index(self):
+        print("front matter index")
+        print(self.vault.front_matter_index)
+        return self.vault.front_matter_index
+    
+service = VaultService("Aerilon_Vault")
+print(service.get_files_to_create())
     
