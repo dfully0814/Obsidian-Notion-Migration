@@ -49,11 +49,9 @@ class NotionService:
                 time.sleep(2)
             except APIResponseError as error:
                 file_name = file["file_name"]
-                log_file = open("output.log", "a", encoding="utf-8")
-                
-                log_file.write(f"Error creating {file_name} == " + str(error) + "\n")
-                
-                log_file.close()
+                with self.safe_open_a("logs/output.log") as f:
+                    f.write(f"Error creating {file_name} == " + str(error) + "\n")
+                    f.close()
                 
     def createPreviewImageBlock(self, child_contents, file):
         if (len(child_contents) > 1 and any([c["type"] for c in child_contents[:3] if "type" in c and c["type"] == "image"])):
@@ -76,3 +74,12 @@ class NotionService:
         if (page_id):
             file_name = response["properties"]["Name"]["title"][0]["text"]["content"]
             print(f"*** Successfully created page: {file_name} - {page_id} ***")
+    
+    def safe_open_a(self, path):
+        """Open 'path' for appending, creating any parent directories as needed
+
+        Args:
+            path (string): The fully qualified path for the file to be opened
+        """
+        os.makedirs(os.path.dirname(path), exist_ok=True)
+        return open(path, "a", encoding="utf-8")
