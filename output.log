@@ -1,34 +1,42 @@
-Error creating Edmur Cassalanter (S) == Content creation Failed. Fix the following: 
+Error creating Vault of Tomes == body failed validation: body.children[21].bulleted_list_item.children[2].bulleted_list_item.children[3].bulleted_list_item.children should be not present, instead was `[{"object":"block","type":"bulleted_list_item","bullete...`.
+Error creating Session 107 - Outline == body failed validation: body.children[33].bulleted_list_item.children[0].bulleted_list_item.children[0].bulleted_list_item.children should be not present, instead was `[{"object":"block","type":"bulleted_list_item","bullete...`.
+Error creating Session 101 Outline == body failed validation: body.children[13].bulleted_list_item.children[0].bulleted_list_item.children[0].bulleted_list_item.children should be not present, instead was `[{"object":"block","type":"bulleted_list_item","bullete...`.
+Error creating Session 84 - Outline == body failed validation: body.children[32].bulleted_list_item.children[6].bulleted_list_item.children[1].bulleted_list_item.children should be not present, instead was `[{"object":"block","type":"bulleted_list_item","bullete...`.
+Error creating Session 99 - Outline == body failed validation: body.children[13].bulleted_list_item.children[0].bulleted_list_item.children[0].bulleted_list_item.children should be not present, instead was `[{"object":"block","type":"bulleted_list_item","bullete...`.
+Error creating Session 86 - Outline == Content creation Failed. Fix the following: 
 Invalid URL for link.
-Error creating Vault of Tomes == body failed validation: body.children[20].bulleted_list_item.children[2].bulleted_list_item.children[3].bulleted_list_item.children should be not present, instead was `[{"object":"block","type":"bulleted_list_item","bullete...`.
-Error creating Session 107 - Outline == body failed validation: body.children[32].bulleted_list_item.children[0].bulleted_list_item.children[0].bulleted_list_item.children should be not present, instead was `[{"object":"block","type":"bulleted_list_item","bullete...`.
-Error creating Session 101 Outline == body failed validation: body.children[12].bulleted_list_item.children[0].bulleted_list_item.children[0].bulleted_list_item.children should be not present, instead was `[{"object":"block","type":"bulleted_list_item","bullete...`.
-Error creating Session 99 - Outline == body failed validation: body.children[12].bulleted_list_item.children[0].bulleted_list_item.children[0].bulleted_list_item.children should be not present, instead was `[{"object":"block","type":"bulleted_list_item","bullete...`.
-Error creating Session 115 == body failed validation: body.children[44].bulleted_list_item.children[0].bulleted_list_item.children[0].bulleted_list_item.children should be not present, instead was `[{"object":"block","type":"bulleted_list_item","bullete...`.
-Error creating Session 94 - Outline == body failed validation: body.children[36].bulleted_list_item.children[0].bulleted_list_item.children[0].bulleted_list_item.children should be not present, instead was `[{"object":"block","type":"bulleted_list_item","bullete...`.
-Error creating Session 111 - Outline == body failed validation: body.children[13].bulleted_list_item.children[1].bulleted_list_item.children[0].bulleted_list_item.children should be not present, instead was `[{"object":"block","type":"bulleted_list_item","bullete...`.
-Error creating Session 85 == Content creation Failed. Fix the following: 
+Error creating Session 85 - Outline == Content creation Failed. Fix the following: 
 Invalid URL for link.
-Error creating Session 114 - Outline == body failed validation: body.children[13].bulleted_list_item.children[1].bulleted_list_item.children[0].bulleted_list_item.children should be not present, instead was `[{"object":"block","type":"bulleted_list_item","bullete...`.
-Error creating Session 105 - Outline == body failed validation: body.children[32].to_do.children[3].bulleted_list_item.children[1].bulleted_list_item.children should be not present, instead was `[{"object":"block","type":"bulleted_list_item","bullete...`.
-Error creating Session 98  - Outline == body failed validation: body.children[12].bulleted_list_item.children[0].bulleted_list_item.children[0].bulleted_list_item.children should be not present, instead was `[{"object":"block","type":"bulleted_list_item","bullete...`.
-Error creating Session 103 - Outline == body failed validation: body.children[31].to_do.children[2].bulleted_list_item.children[1].bulleted_list_item.children should be not present, instead was `[{"object":"block","type":"bulleted_list_item","bullete...`.
-Error creating Session 96 - Outline == body failed validation: body.children[18].to_do.children[0].bulleted_list_item.children[3].bulleted_list_item.children should be not present, instead was `[{"object":"block","type":"bulleted_list_item","bullete...`.
-Error creating Session 102 - Outline == body failed validation: body.children[12].bulleted_list_item.children[0].bulleted_list_item.children[0].bulleted_list_item.children should be not present, instead was `[{"object":"block","type":"bulleted_list_item","bullete...`.
-Error creating Session 106 - Outline == body failed validation: body.children[34].bulleted_list_item.children[0].bulleted_list_item.children[0].bulleted_list_item.children should be not present, instead was `[{"object":"block","type":"bulleted_list_item","bullete...`.
-Error creating Session 100 Outline == body failed validation: body.children[12].bulleted_list_item.children[0].bulleted_list_item.children[0].bulleted_list_item.children should be not present, instead was `[{"object":"block","type":"bulleted_list_item","bullete...`.
-Error creating Session 84 == body failed validation: body.children[31].bulleted_list_item.children[6].bulleted_list_item.children[1].bulleted_list_item.children should be not present, instead was `[{"object":"block","type":"bulleted_list_item","bullete...`.
-Error creating Session 110 - Outline == body failed validation: body.children[13].bulleted_list_item.children[1].bulleted_list_item.children[0].bulleted_list_item.children should be not present, instead was `[{"object":"block","type":"bulleted_list_item","bullete...`.
-Error creating Session 97 - Outline == body failed validation: body.children[15].bulleted_list_item.children[0].bulleted_list_item.children[0].bulleted_list_item.children should be not present, instead was `[{"object":"block","type":"bulleted_list_item","bullete...`.
-Error creating Session 93 - Outline == body failed validation: body.children[45].bulleted_list_item.children[0].bulleted_list_item.children[0].bulleted_list_item.children should be not present, instead was `[{"object":"block","type":"bulleted_list_item","bullete...`.
-Error creating Session 108 - Outline == body failed validation: body.children[31].bulleted_list_item.children[0].bulleted_list_item.children[0].bulleted_list_item.children should be not present, instead was `[{"object":"block","type":"bulleted_list_item","bullete...`.
+Error creating Session 94 - Outline == body failed validation: body.children[37].bulleted_list_item.children[0].bulleted_list_item.children[0].bulleted_list_item.children should be not present, instead was `[{"object":"block","type":"bulleted_list_item","bullete...`.
+Error creating Session 111 - Outline == body failed validation: body.children[14].bulleted_list_item.children[1].bulleted_list_item.children[0].bulleted_list_item.children should be not present, instead was `[{"object":"block","type":"bulleted_list_item","bullete...`.
+Error creating Session 114 - Outline == body failed validation: body.children[14].bulleted_list_item.children[1].bulleted_list_item.children[0].bulleted_list_item.children should be not present, instead was `[{"object":"block","type":"bulleted_list_item","bullete...`.
+Error creating Session 105 - Outline == body failed validation: body.children[33].to_do.children[3].bulleted_list_item.children[1].bulleted_list_item.children should be not present, instead was `[{"object":"block","type":"bulleted_list_item","bullete...`.
+Error creating Session 98  - Outline == body failed validation: body.children[13].bulleted_list_item.children[0].bulleted_list_item.children[0].bulleted_list_item.children should be not present, instead was `[{"object":"block","type":"bulleted_list_item","bullete...`.
+Error creating Session 103 - Outline == body failed validation: body.children[32].to_do.children[2].bulleted_list_item.children[1].bulleted_list_item.children should be not present, instead was `[{"object":"block","type":"bulleted_list_item","bullete...`.
+Error creating Session 96 - Outline == body failed validation: body.children[19].to_do.children[0].bulleted_list_item.children[3].bulleted_list_item.children should be not present, instead was `[{"object":"block","type":"bulleted_list_item","bullete...`.
+Error creating Session 102 - Outline == body failed validation: body.children[13].bulleted_list_item.children[0].bulleted_list_item.children[0].bulleted_list_item.children should be not present, instead was `[{"object":"block","type":"bulleted_list_item","bullete...`.
+Error creating Session 106 - Outline == body failed validation: body.children[35].bulleted_list_item.children[0].bulleted_list_item.children[0].bulleted_list_item.children should be not present, instead was `[{"object":"block","type":"bulleted_list_item","bullete...`.
+Error creating Session 100 Outline == body failed validation: body.children[13].bulleted_list_item.children[0].bulleted_list_item.children[0].bulleted_list_item.children should be not present, instead was `[{"object":"block","type":"bulleted_list_item","bullete...`.
+Error creating Session 110 - Outline == body failed validation: body.children[14].bulleted_list_item.children[1].bulleted_list_item.children[0].bulleted_list_item.children should be not present, instead was `[{"object":"block","type":"bulleted_list_item","bullete...`.
+Error creating Session 97 - Outline == body failed validation: body.children[16].bulleted_list_item.children[0].bulleted_list_item.children[0].bulleted_list_item.children should be not present, instead was `[{"object":"block","type":"bulleted_list_item","bullete...`.
+Error creating Session 93 - Outline == body failed validation: body.children[46].bulleted_list_item.children[0].bulleted_list_item.children[0].bulleted_list_item.children should be not present, instead was `[{"object":"block","type":"bulleted_list_item","bullete...`.
+Error creating Session 108 - Outline == body failed validation: body.children[32].bulleted_list_item.children[0].bulleted_list_item.children[0].bulleted_list_item.children should be not present, instead was `[{"object":"block","type":"bulleted_list_item","bullete...`.
 Error creating Session 95 - Outline == Content creation Failed. Fix the following: 
 Invalid URL for link.
-Error creating Session 86 == Content creation Failed. Fix the following: 
-Invalid URL for link.
-Error creating Drow Inquisitor == body failed validation: body.children[8].bulleted_list_item.children[6].bulleted_list_item.children[1].bulleted_list_item.children should be not present, instead was `[{"object":"block","type":"bulleted_list_item","bullete...`.
+Error creating Session 115 - Outline == body failed validation: body.children[45].bulleted_list_item.children[0].bulleted_list_item.children[0].bulleted_list_item.children should be not present, instead was `[{"object":"block","type":"bulleted_list_item","bullete...`.
+Error creating Drow Inquisitor == body failed validation: body.children[9].bulleted_list_item.children[6].bulleted_list_item.children[1].bulleted_list_item.children should be not present, instead was `[{"object":"block","type":"bulleted_list_item","bullete...`.
+Error creating Dragon Amber == Content creation Failed. Fix the following: 
+Invalid image url.
+Error creating Incarnum == Content creation Failed. Fix the following: 
+Invalid image url.
+Error creating Ruith == Content creation Failed. Fix the following: 
+Invalid image url.
+Error creating Seekers == Content creation Failed. Fix the following: 
+Invalid image url.
+Error creating Transitory Plane == Content creation Failed. Fix the following: 
+Invalid image url.
 Error creating Cassalanter Mountain Villa == body failed validation. Fix one:
-body.children.length should be ≤ `100`, instead was `161`.
+body.children.length should be ≤ `100`, instead was `162`.
 body.parent.page_id should be defined, instead was `undefined`.
 Error creating Vespin Chloras == Content creation Failed. Fix the following: 
 Invalid URL for link.

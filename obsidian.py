@@ -42,10 +42,5 @@ class VaultService:
         return tuple(files_to_create)
 
     def get_front_matter_index(self):
-        print("front matter index")
-        print(self.vault.front_matter_index)
         return self.vault.front_matter_index
-    
-service = VaultService("Aerilon_Vault")
-print(service.get_files_to_create())
     

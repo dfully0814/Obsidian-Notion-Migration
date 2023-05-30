@@ -1,8 +1,7 @@
 ---
-thumbnail: https://imgur.com/BbvoR0s
+thumbnail: https://imgur.com/BbvoR0s.png
 ---
 #creature
-![[sawtooth 1.webp]]
 
 # Behavior
 -   Behaves like an apex predator in the form of a sabre-tooth cat.

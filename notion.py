@@ -21,6 +21,9 @@ class NotionService:
                 child_contents = PageBlockProcessor(
                         file["contents"].getvalue().decode("utf-8")
                     ).convert_to_pageblocks()
+                
+                child_contents_with_image = self.createPreviewImageBlock(child_contents, file)
+                
                 page_create_response = notion.pages.create(
                     parent={"database_id": self.database_id},
                     properties={
@@ -40,10 +43,10 @@ class NotionService:
                             }
                         }
                     },
-                    children=child_contents            
+                    children=child_contents_with_image
                 )
                 self.process_response(page_create_response)
-                time.sleep(1)
+                time.sleep(2)
             except APIResponseError as error:
                 file_name = file["file_name"]
                 log_file = open("output.log", "a", encoding="utf-8")
@@ -51,7 +54,23 @@ class NotionService:
                 log_file.write(f"Error creating {file_name} == " + str(error) + "\n")
                 
                 log_file.close()
-                 
+                
+    def createPreviewImageBlock(self, child_contents, file):
+        if (len(child_contents) > 1 and any([c["type"] for c in child_contents[:3] if "type" in c and c["type"] == "image"])):
+            return child_contents
+        # Insert image block for imgur image at the top of the page
+        child_contents.insert(0,
+            {
+                "type": "image",
+                "image": {
+                    "type": "external",
+                    "external": {
+                        "url": file["imageUrl"] if file["imageUrl"] else "https://i.imgur.com/86WDQNk.jpg"
+                    }
+                }
+            })
+        return child_contents
+    
     def process_response(self, response):
         page_id = response.get("id")
         if (page_id):

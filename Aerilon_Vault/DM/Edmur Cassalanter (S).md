@@ -28,7 +28,7 @@ At the time, the ‌[[Thayan]] empire had begun persecuting and enforcing the di
 ## Meeting Tanthul
 Unbeknown to Edmur, the first [[Shadow Crossing]] had opened in ‌[[Thaymount]], beginning to corrupt the more intellectually astute who were within its reach.
 
-As Edmur deepened his studies of the ‌[[Sirin]], he began to have dreams of a tremendous flaming eye looking down upon him, which he interpreted to be a ‌[[Sirin]]] reaching out to him and rewarding him for his diligent seeking of their wisdom and teachings. He soon became convinced he had been chosen by the ‌[[Sirin]]] to unite his people in worship and service to the ‌[[Sirin]], effectively ending the warfare, slavery, and butchery that was quickly categorizing his people. In these visions, he was told by the eye that his half-brother was [[Telamont Tanthul]]‌, which put him in great fear knowing of Tanthul's affluence and power in the empire. The eye gave him the task of revealing himself to Tanthul as his family and that Tanthul would then set him on a path to fulfilling his goal of bringing peace and prosperity to the empire.
+As Edmur deepened his studies of the ‌[[Sirin]], he began to have dreams of a tremendous flaming eye looking down upon him, which he interpreted to be a ‌[[Sirin]] reaching out to him and rewarding him for his diligent seeking of their wisdom and teachings. He soon became convinced he had been chosen by the ‌[[Sirin]]] to unite his people in worship and service to the ‌[[Sirin]], effectively ending the warfare, slavery, and butchery that was quickly categorizing his people. In these visions, he was told by the eye that his half-brother was [[Telamont Tanthul]]‌, which put him in great fear knowing of Tanthul's affluence and power in the empire. The eye gave him the task of revealing himself to Tanthul as his family and that Tanthul would then set him on a path to fulfilling his goal of bringing peace and prosperity to the empire.
 
 Knowing he would likely be unable to gain an audience with Tanthul using conventional means, he managed to add himself to the security detail of Tanthul's while Tanthul was traveling on a diplomatic mission. At some point during their travels, he revealed himself to Tanthul as his half-brother, told Tanthul of his many visions of the eye, and told him the eye had sent him to Tanthul and told him of their relation.
 
@@ -45,8 +45,8 @@ Well-spoken, used flowery speech and long words. Adept orator. Could amass a fol
 He was honest to a fault
 He greatly valued life. Why? Miracle happened at birth? Survived a tragic event that changed his outlook? Lost a loved one? Third party influenced him?
 Valued honor and independence
-Patriotic and nationalistic to the empire of @[Netheril](organization:3b303356-7a17-4ab3-b8ca-e9157f0ec3d0)‌
-He was very protective of a valuable possession. What was it? Artifact keeping him alive? Keeping a loved one alive? Artifact given to him by a @[Netherese](organization:3b303356-7a17-4ab3-b8ca-e9157f0ec3d0)‌ Archmage of a notable enclave? Not @[Telamont Tanthul](person:be982177-c67d-41e6-9ab5-12c48f735cbe)‌ his half-brother. Maybe a rival to Tanthul? Someone he loved who was an enemy of Tanthul?
+Patriotic and nationalistic to the empire of [[Netheril]]
+He was very protective of a valuable possession. What was it? Artifact keeping him alive? Keeping a loved one alive? Artifact given to him by a [[Netherese]] Archmage of a notable enclave? Not [[Telamont Tanthul]] his half-brother. Maybe a rival to Tanthul? Someone he loved who was an enemy of Tanthul?
 (flaw) he was foolhardily brave, often blinded by the need to be brave as an end unto itself
 (flaw) he was hot-tempered / easily angered or impassioned, especially regarding loyalty and honor
 occupation - locksmith
