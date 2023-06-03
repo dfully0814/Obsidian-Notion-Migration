@@ -8,12 +8,12 @@ import uuid
 import sys
 
 # DATABASE_ID = "dc8f63b3bc874a93818676af32fbad0e"
-notion = Client(auth=os.environ["NOTION_API_KEY"])
 
 class NotionService:
     def __init__(self, database_id, files_to_create) -> None:
         self.database_id = database_id
         self.files_to_create = files_to_create
+        self.notion = Client(auth=os.environ["NOTION_API_KEY"])
         
     def create_pages(self):
         for file in self.files_to_create:
@@ -24,7 +24,7 @@ class NotionService:
                 
                 child_contents_with_image = self.createPreviewImageBlock(child_contents, file)
                 
-                page_create_response = notion.pages.create(
+                page_create_response = self.notion.pages.create(
                     parent={"database_id": self.database_id},
                     properties={
                         "Name": {
