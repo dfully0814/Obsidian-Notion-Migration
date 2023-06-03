@@ -3,25 +3,24 @@ from notion import NotionService
 import sys
 import os
 
-_obsidian_vault_path = input("Enter the full path to your Obsidian vault: ")
-while not os.path.exists(_obsidian_vault_path):
+while not os.path.exists(input("Enter the full path to your Obsidian vault: ")):
     print("Invalid path. Please try again. On some platforms, this error may occur if you do not have read and execute permissions on the file, even if the path physically exists.")
     _obsidian_vault_path = input("Enter the full path to your Obsidian vault: ")
 
 print("Gathering vault metadata...")
-_vault_service = VaultService("Aerilon_Vault")
+_vault_service = VaultService(_obsidian_vault_path)
 
-_notion_database_id = input("Enter Notion database id: ")
-while not _notion_database_id:
+os.environ["NOTION_DATABASE_ID"] = input("Enter Notion database id")
+while not input("Enter Notion database id"):
     print("Database id cannot be empty. Please try again.")
-    _notion_database_id = input("Enter Notion database id")
+    os.environ["NOTION_DATABASE_ID"] = input("Enter Notion database id")
     
-_notion_api_key = input("Enter your Notion API Key: ")
-while not _notion_api_key:
+os.environ["NOTION_API_KEY"] = input("Enter your Notion API Key: ")
+while not input("Enter your Notion API Key: "):
     print("Notion API Key cannot be empty. Please try again.")
-    _notion_api_key = input("Enter your Notion API Key: ")
+    os.environ["NOTION_API_KEY"] = input("Enter your Notion API Key: ")
 
 print("Creating notion pages...")
-_notion_service = NotionService("dc8f63b3bc874a93818676af32fbad0e", _vault_service.get_files_to_create())
+_notion_service = NotionService(os.environ["NOTION_DATABASE_ID"], _vault_service.get_files_to_create())
 
 _notion_service.create_pages()
