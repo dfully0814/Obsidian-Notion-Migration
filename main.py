@@ -11,7 +11,7 @@ while not os.path.exists(_obsidian_vault_path):
 print("Gathering vault metadata...")
 _vault_service = VaultService(_obsidian_vault_path)
 
-os.environ["NOTION_DATABASE_ID"] = input("Enter Notion database id")
+os.environ["NOTION_DATABASE_ID"] = input("Enter Notion database id: ")
 while not os.environ["NOTION_DATABASE_ID"]:
     print("Database id cannot be empty. Please try again.")
     os.environ["NOTION_DATABASE_ID"] = input("Enter Notion database id")
