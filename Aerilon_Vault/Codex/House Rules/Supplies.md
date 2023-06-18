@@ -1,0 +1,1 @@
+We will be using stacks of supplies to track any of the equipment you would need to travel long distances in harsh environments or other conditions. The amount of "stacks" you will need over a period of time will depend on the narrative circumstances.

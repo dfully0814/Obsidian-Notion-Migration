@@ -1,0 +1,21 @@
+#recap 
+# Last we left off...
+Exiled and on the run in one of the most dangerous areas in the world, your small group, related by [[House Grahlund]] blood, was huddled over a crate of frozen [[Knucklehead Trout]], sipping fresh honey mead recently imported from the Ironhaven village of [[Good Mead]] the previous evening. These sorts of imports from the other [[Ironhaven]] villages are normally transported via a sled dog team captained by a reclusive, gruff, balding man with thick gray beard named [[Jara Stomir]] who makes a living as a courier among the settlements and larger cities of Ironhaven, transporting goods among them.
+
+A few days ago, you witnessed the citizens of [[Dougan’s Hole]] draw another individual’s name who assume the honorable task of becoming an offering to [[Auril]], to appease her wrath, which the majority in Ironhaven have attributed to the recent blackout across the [[Uncharted North]], along with increasing ferocity of the north’s wildlife, and other mysterious and unexplained happenings.
+
+While drinking mead with one another at the local [[Fishouse]], [[Aristademus Grahlund]] began to overhear an argument between Jara and [[Mira Antonov]]--a surly and scarred gnome who is the proprietor of the Fishouse which has become the sole local hangout and crucial storage house of Dougan’s Hole. As Demus injected himself into the conversation he noticed that Jara seemed uncharacteristically aggressive as he watched Jara lift his sword to Mira’s neck, accusing her of stealing several crates off his sled that were intended to be transported elsewhere. Demus also found it odd that Jara didn’t recognize Demus as he attempted to talk him down, knowing that it’s Jara’s livelihood to remember faces and names.
+
+Demus eventually managed to talk Jara down as Jara told Mira that if his crates weren’t found by the morning, they would fight in a trial inside the stones, which you know to be a circle of 20 mysteriously placed stones outside Dougan’s Hole, which has taken on a host of spiritual significances to the people of Dougan’s Hole and beyond.
+
+[[Hiraeth]] then had his familiar follow Jara out of the Fishouse where he watched Jara jump off the 15ft high dock and land on his feet as he began to barrel and vault over one of the smaller dwellings and seemingly burrowed into a deep hole in the ground.
+
+Demus remained behind to question some of the other villagers and occupants of the Fishouse, finding out that Jara has spent the night in the Speaker’s House, Speaker [[Edgra Durmoot]], which Demus found odd since the speaker has become much more isolated lately and hasn’t allowed company and often isn’t seen out in the village except for once a day for a walk.
+
+Demus also spoke with a group of outlanders who sometimes take respite in Dougan’s Hole as they travel across the frozen landscape or migrate to a new home. They told Demus they had seen Jara’s sled around [[Kelvin's Cairn]], a large mountain with its own host of mythology surrounding it. Demus learned that Jara never travels that far due to the danger of going that far out of Ironhaven. The outlanders also shared with Demus they had seen a large caravan of individuals, some wearing “clothing with deep colors” near the [[Reghed Glacier]].
+
+The rest of the group began investing the hole outside, which Jara seems to have disappeared into. [[Professor Klaren Ray]] managed to find what appeared to be flakes of human skin of varying layers around the mouth of the tunnel as well as human fingernails broken off in the layers of ice around the walls of the tunnels and large gashes that seemed to have broken through the frozen dirt walls of the tunnel.
+
+As Klaren investigated the tunnel, he began to hear scratching from deeper into the tunnel and a low growl that echoed up the tunnel and began to grow into a dreadful mix of growling and moaning. At the same time, Hiraeth watched as a large armored beast ran on all fours, vaulted off one of the village houses onto the dock, and burst through a window of the Fishouse as Demus looked startled at the body of a large hulking beast with glowing red eyes and sharp spines down its back.
+
+And that’s where we pick up...

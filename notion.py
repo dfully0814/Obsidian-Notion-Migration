@@ -83,3 +83,8 @@ class NotionService:
         """
         os.makedirs(os.path.dirname(path), exist_ok=True)
         return open(path, "a", encoding="utf-8")
+    
+    def create_mentions(self):
+        """ Create page mentions on each newly created notion page
+        """
+        

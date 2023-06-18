@@ -1,0 +1,12 @@
+-  A creature can hold its breath for a number of minutes equal to 1 + its Constitution modifier (minimum of 30 seconds).
+-   When a creature runs out of breath or is choking, it can survive for a number of rounds equal to its Constitution modifier (minimum of 1 round). At the start of its next turn, it drops to 0 hit points and is dying, and it can’t regain hit points or be stabilized until it can breathe again.
+-   A melee attack has disadvantage
+-   A ranged weapon attack automatically misses a target beyond the weapon's normal range. 
+-   Unarmed strikes have disadvantage on the attack roll.
+-   Creatures and objects fully immersed in water have resistance to fire damage.
+-  You can cast a spell, but if the spell is verbal, it exhausts the number of minutes you can hold your breath entirely. At the beginning of the next round, you must make a CON saving throw or fall unconscious and begin death saving throws on the next round.
+-   If you are hit or physically stressed you must make a CON save immediately, or lose 1 minute per failure from the total amount of time you can hold your breath. Once you reach 0 minutes, you must make a new CON save at the beginning of every turn to avoid falling unconscious.
+-  If you do not have a swim speed, your movement is halved.
+-  If a creature is hit with a critical strike, it immediately loses all of its oxygen and will fall unconscious and begin death saving throws at the beginning of its next turn.
+-  If a creature is surprised and is not able to prepare before they hit the water, the total amount of time a creature can hold its breath is halved.
+-  If a creature takes the Dash action underwater, it must succeed on a CON saving throw or automatically reduce its amount of held breath by 2 minutes.

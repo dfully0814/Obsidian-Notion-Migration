@@ -1,0 +1,1 @@
+A local celebration in [[Luskan]] that takes place in late winter when the local clergy bless the ships and their crews, asking for protection and success in their voyages. This is often followed by a procession of ships through the harbor, with the crews waving to the crowds and tossing flowers and other offerings into the water.

@@ -1,0 +1,9 @@
+#recap 
+# Last we left off...
+The frenzied rage continued across [[Phandalin]] as many of the city's citizens had now been killed either by your group, the[[ Everwatch Knights]], or one another. [[Yang Tieh]] continued killing one citizen after another as they became frenzied by the demon's continued wider and stronger influence as it spread throughout the city.
+
+After succumbing a second time to the demon's frenzy and after most of the threats around them had been removed, [[Gerard Vos]] began taking shots at the demon, sending screeches of struggle into the air as the demon seemed to struggle to maintain its grip in existence as it began to flicker in and out of existence with the more damage done to it by Vos and Yang.
+
+Meanwhile, [[Teymir]] and [[Elleanna Corvus]] managed to escape over the wall of the city and began running through the trees to the east side of the city where [[Rushnaa]] had gathered their horses. When they reached the east side of the city, Teymir took out his spell lenses and fired blasts of electrical energy through them directed at a concentrated point of the wall, creating an exit for a unit of Everwatch Knights and a large group of citizens.
+
+Meanwhile, Vos and Yang continued fighting off frenzied citizens and Everwatch Knights. Vos eventually managed to damage the creature enough that he seemed to disable whatever was causing the creatures invisibility, revealing it to Yang also as the two of them began attacking the creature as it faded in and out of existence for increasing periods of time. When the creature realized it was surrounded, it looked to Vos and said, "Now, I suppose I will go and visit all of your friends," at which point it disappeared leaving only the sound of horrified screams across the city and a sea of bodies.

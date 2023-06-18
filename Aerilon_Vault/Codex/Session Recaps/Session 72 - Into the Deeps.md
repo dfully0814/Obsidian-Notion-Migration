@@ -1,0 +1,17 @@
+#recap 
+# Last we left off...
+You picked up in [[Cassius Cromwell]]' camp in the cave system on the outskirts of the mysterious swamp known as the [[Mere of Dead Men]]. You began discussing what to do next, some of you deciding to get some rest after your arduous fight with the [[Retriever]]. Cassius discussed with [[Yang Tieh]] regarding how it felt to overcome the elemental inside of the Retriever, telling Yang and [[Elleanna Corvus]] both that he believes [[Auril]] gave him purpose when he was living what he believed to be an otherwise purposeless life of executing orders and furthering the unknown higher agendas of others. He asked Yang if he thought Auril chose them because she knew she would be able to not change them but redirect their desire for strength and power a different way. He told Yang he has seen this path with Auril as a means of redemption, but he's not sure if it will lead to that ultimate end or not or even what that end means.
+
+A couple of you then took watch throughout the night as you slept in the camp. During his watch, [[Gerard Vos]] began to hear the sound of some of the shadow creatures' wheezing breath on the other side of the collapsed rubble which soon began to mingle together and join into dozens of breaths that formed into what sounded like menacing laughter which quickly echoed through the camp and trailed off down the tunnel leading out of the cave. Immediately following, Vos experienced a sinking and dreaded feeling that something had recently gone terribly wrong.
+
+Before leaving the cave, you learned from [[Lyra]] was actually a spaceship that [[Captain Alford Ainsley]] had used to travel across the a place she referred to as the [[Transitory Plane]], to the material plane for reasons not specified. You also learned from Lyra that Ainsley's home is somewhere in an Asteroid Belt on the [[Prime Material Plane]] near [[Toril]] known as the [[Tears of Selune]].
+
+Deciding to fly over the raging ocean to Ainsley's sunken spaceship, you all took to the air from the coast and began battling wind, wave, and lightning for an hour or so. Throughout the journey, [[Gerard Vos]] tumbled off of Yang's back, hanging from the rope attached to him. Ell unsuccessfully attempted to help Vos back up onto the rope, instead crashing multiple times into the raging waters below and taking significant bludgeoning damage.
+
+Lyra eventually pointed the site of the ship out to [[Teymir]], firing a bright red beam down into the water that Teymir then marked for everyone else with his spiritual weapon. You all then dove into the raging water, Teymir at double speed from everyone else. You quickly noticed the water had severely decreased visibility due to silt and debris being stirred up by the storm. Teymir eventually arrived at the wrecked ship, being led by Lyra and found the hatch that Lyra opened for him.
+
+He watched as a group of sharks swam through a thick blue fog leaking from the back-left of the ship, seeing the sharks swim in the direction he knew the party was likely approaching from.
+
+Due to visibility constraints, the remainder of the party has not yet seen the approaching sharks but have seen the direction that Teymir swam.
+
+And that's where we pick up...

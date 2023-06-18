@@ -1,0 +1,25 @@
+#recap 
+# Last we left off...
+A mild winter morning continued as you moved forward through your conversation with Ainsley regarding the best place to meet him so that he could divulge more information to you regarding the events you have been investigating over these past two months since [[Teymir]] initially left [[Waterdeep]].
+
+You decided to speak with each other in private to decide on a plan. Ainsley told you that you wouldn't be able to send him a message through the console due to security concerns, and he told you that he would send you another message in two hours. You told him that if he didn't hear back from you by then that you would meet back with him in the town of [[Phandalin]] at some point. He told you that he has a quick and efficient way of making it to Phandalin so you would only need to inform him once you arrive and he could be there in 24 hours or less barring any extenuating circumstances.
+
+[[Elleanna Corvus]] then was the first to ascend the stairs of [[Evelyn's General Store]] to investigate, finding a storage room and main store area fully swept clean and cleared of everything. She noticed that it didn't appear someone left in a hurry and took these items with them. This seemed to be a slow and methodical clearing of the store. The store also had large wood plans overlaid on top of all of the windows. Ell saw outside through some of the wooden slats that the [[Everwatch Knights]] had significantly increased security in [[Amphail]], likely due to the attack on Amphail two days before which you saw had left a large hole in the northeastern wall of Amphail.
+
+Not realizing that the shop had been silently trapped, the majority of the party walked through the center of the main room of the shop, prompting a patrol of 5 Everwatch Knights to run north from the [[Amphail Communciations Office]] to investigate. Teymir and Ell each disguised themselves as nobles and vacated the shop and hid around the corner, attempting to blend in with the crowd while [[Robinson Fellweather]] and [[John Smith]] sought to hide out in a dark corner of the shop.
+
+As the knights entered the shop, one knight raised his hand at the command of a knight who appeared to be leading the patrol, emitting a dull orange glow from narrow openings in his metal gauntlet. Robinson and John watched as John's magic ring started slowing pulsing with the same dull orange color along with a cacophony of Robinson's magical items.
+
+Robinson immediately responded by sending a blast of electrical energy through the middle of the room, separating 3 of the knights from 2 others. At that point, Robinson and [[Yang Tieh]] managed to capitalize on the distraction quickly enough to escape the shop, Robinson being seen by the 5 knights as he sped past and Yang managing to nimbly maneuver low to the ground behind the glass enclosures preventing the knights from getting a good look at him. John Smith remained behind as the knights began to engage him. One knight began to form an ethereal sphere in between his hands, a dull amber glow lighting the whites of his eyes and silhouetting his irises, from which John Smith could hear a myriad of screams of terror as the knight soon lobbed the sphere at John, unearthing his most paranoid fears and anxieties all at once and sending him up against the wall unable to move.
+
+The knights then closed in on John to capture him when they found [[Tanavast Adamantus]]'s Everwatch Knight shield on John's person. Fresh off of the devastating attack on Amphail and considering John likely somehow complicit in that attack and the murder of a fellow Everwatch Knight, the knights closed in and ran John through with their swords but not before Robinson managed to make it back to the door and kill one of the nights with a well-placed ball of electrical energy. Seeing John already overwhelmed, Robinson continued his escape.
+
+Robinson managed to cast an invisibility spell and scale the southern wall of Amphail to escape while Teymir and Ell managed to blend in and pass through the large hold in the northeastern wall. Yang also managed to escape the city via a different path from Robinson.
+
+As Teymir and Ell set their sights east into the hills they traveled a half-day's journey into the hills of the [[Dessarin Valley]]. Teymir left [[Rushnaa]] behind to look for Yang and Robinson in case they found a way out of the city and found their way to the small patch of forest east of Amphail.
+
+Rushnaa did see Robinson as Robinson escaped the city on his boar. He told Rushnaa that Yang was not with him and to tell the others not to wait for him and also told Rushnaa of John's fate.
+
+Teymir and Ell reached their destination in the hills late in the afternoon, around 4:00, and began looking for a place to make camp when Rushnaa returned with the news from Robinson and shared it with Teymir and Ell.
+
+And that's where we pick up. It's a very chilly late afternoon as the sun is getting lower in the sky and a vigorous breeze blows in waves across the valley causing the tall blades of grass to dance to one side and then the other.

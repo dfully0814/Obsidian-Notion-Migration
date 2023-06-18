@@ -1,0 +1,1 @@
+Whenever a player drops to 0 HP, he immediately takes 2 points of Exhaustion. Failed death saves no longer carry over.
