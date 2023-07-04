@@ -16,7 +16,10 @@ class NotionService:
         self.notion = Client(auth=os.environ["NOTION_API_KEY"])
         
     def create_pages(self):
+        int_test = 0
         for file in self.files_to_create:
+            if (int_test == 10):
+                break
             try:
                 child_contents = PageBlockProcessor(
                         file["contents"].getvalue().decode("utf-8")
@@ -47,6 +50,7 @@ class NotionService:
                 )
                 self.process_response(page_create_response)
                 time.sleep(2)
+                int_test += 1
             except APIResponseError as error:
                 file_name = file["file_name"]
                 with self.safe_open_a("logs/output.log") as f:
@@ -88,3 +92,15 @@ class NotionService:
         """ Create page mentions on each newly created notion page
         """
         
+        notion_pages = self.notion.databases.query(
+            database_id=self.database_id
+        )
+        
+        for page in notion_pages["results"]:
+            child_contents = self.notion.blocks.children.list(
+                block_id=page["id"]
+            )
+            for content in child_contents:
+                content_type = content.get("type")
+                
+            
