@@ -98,22 +98,42 @@ class NotionService:
         
         int_test = 0
         for page in notion_pages["results"]:
-            if (int_test == 2):
+            if (int_test == 10):
                 break
             child_blocks = self.notion.blocks.children.list(
                 block_id=page["id"]
             )
             for block in child_blocks.get("results"):
                 block_type = block["type"]
-                if (block_type == "paragraph"):
-                    print(block.get(block_type).get("rich_text"))
-                rich_text_blocks = getattr(block, block_type, {}).get("rich_text")
-                
+                rich_text_blocks = block.get(block_type).get("rich_text")
                 if (rich_text_blocks):
                     for text_block in rich_text_blocks:
-                        text = text_block.get("text")
-                        print(text)
+                        text = text_block.get("text").get("content")
+                        self.process_mentions(text)
             int_test += 1
-            
-                
-            
+
+    def process_mentions(self, text): 
+        start_bracket = "[["
+        end_bracket = "]]"
+        exclude_start_bracket = "![["
+        
+        start_index = 0
+        print("::: text string ::: ")
+        print(text)
+        while start_index < len(text):
+            exclude_start_index = text.find(exclude_start_bracket, start_index)
+            if (exclude_start_index != -1):
+                break
+
+            mention_start_index = text.find(start_bracket, start_index)
+            if (mention_start_index == -1):
+                break
+
+            mention_end_index = text.find(end_bracket, mention_start_index + len(start_bracket))
+            if (mention_end_index == -1):
+                break
+
+            mention_word = text[mention_start_index + len(start_bracket):mention_end_index]
+            print("-- mention word -- " + mention_word)
+                # API call
+            start_index = mention_end_index + len(end_bracket)
