@@ -18,7 +18,7 @@ class NotionService:
     def create_pages(self):
         int_test = 0
         for file in self.files_to_create:
-            if (int_test == 10):
+            if (int_test == 5):
                 break
             try:
                 child_contents = PageBlockProcessor(
@@ -96,11 +96,24 @@ class NotionService:
             database_id=self.database_id
         )
         
+        int_test = 0
         for page in notion_pages["results"]:
-            child_contents = self.notion.blocks.children.list(
+            if (int_test == 2):
+                break
+            child_blocks = self.notion.blocks.children.list(
                 block_id=page["id"]
             )
-            for content in child_contents:
-                content_type = content.get("type")
+            for block in child_blocks.get("results"):
+                block_type = block["type"]
+                if (block_type == "paragraph"):
+                    print(block.get(block_type).get("rich_text"))
+                rich_text_blocks = getattr(block, block_type, {}).get("rich_text")
+                
+                if (rich_text_blocks):
+                    for text_block in rich_text_blocks:
+                        text = text_block.get("text")
+                        print(text)
+            int_test += 1
+            
                 
             
