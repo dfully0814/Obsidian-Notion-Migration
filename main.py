@@ -16,13 +16,13 @@ _vault_service = VaultService(_obsidian_vault_path)
 # while not os.environ["NOTION_DATABASE_ID"]:
 #     print("Database id cannot be empty. Please try again.")
 # os.environ["NOTION_DATABASE_ID"] = input("Enter Notion database id")
-os.environ["NOTION_DATABASE_ID"] = "dc8f63b3bc874a93818676af32fbad0e"
+os.environ["NOTION_DATABASE_ID"] = ""
 
 # os.environ["NOTION_API_KEY"] = input("Enter your Notion API Key: ")
 # while not os.environ["NOTION_API_KEY"]:
 #     print("Notion API Key cannot be empty. Please try again.")
 # os.environ["NOTION_API_KEY"] = input("Enter your Notion API Key: ")
-os.environ["NOTION_API_KEY"] = "secret_BMJEiiSQGh9hfIWT8B7cZ1VbnYTSorjAfGO0Xd4YnWE"
+os.environ["NOTION_API_KEY"] = ""
 
 print("Creating notion pages...")
 _NOTION_SERVICE = NotionService(
